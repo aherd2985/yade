@@ -15,12 +15,12 @@ This Python script automates data exfiltration through DNS requests. Harnessing 
 
 # Features
 
-+ Seamless data exfiltration using DNS requests 🕵️‍♀️
++ Seamless data exfiltration using DNS requests :skull:
 + Customizable domain name for extra stealth :sunglasses:
-+ Customizable DNS resolver for extra stealth 🕵️‍♂️
-+ Customizable DNS request types for extra stealth 🕵️‍♂️
-+ Random DNS request type mode for extra stealth 🕵️‍♂️
-+ Easy to customize encoding for extra stealth 🕵️‍♂️
++ Customizable DNS resolver for extra stealth :japanese_ogre:
++ Customizable DNS request types for extra stealth :suspect:
++ Random DNS request type mode for extra stealth :see_no_evil:
++ Easy to customize encoding for extra stealth :eyes:
 + Simple and intuitive command-line interface (because hackers need user-friendly tools too) 🖥️
 
 # Prerequisites
@@ -43,6 +43,13 @@ Navigate to the project directory:
 Run the script:
 
     python3 yade.py
+
+Run a tool to capture the DNS requests on the targeted server. Any tool for packet captures will work, such as tcpdump, WireShark, tshark, or NetworkMiner.
+
+    # -i == Interface switch
+    # port == Filter packets by port selection
+    # -w == Write packet captures to file
+    sudo tcpdump -i any port 53 -w test.pcap
 
 Sit back, relax, and watch your data gracefully slip away through the DNS requests. Goodbye, secrets! 👋
 
