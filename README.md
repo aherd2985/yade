@@ -15,38 +15,32 @@ This Python script automates data exfiltration through DNS requests. Harnessing 
 
 # Features
 
-    Seamless data exfiltration using DNS requests 🕵️‍♀️
-    Customizable domain name generation for extra stealth 🕵️‍♂️
-    Simple and intuitive command-line interface (because hackers need user-friendly tools too) 🖥️
+Seamless data exfiltration using DNS requests 🕵️‍♀️
+Customizable domain name generation for extra stealth 🕵️‍♂️
+Simple and intuitive command-line interface (because hackers need user-friendly tools too) 🖥️
 
 # Prerequisites
 
-    Python 3.8 or above
-    A sneaky mind and mischievous intentions 😉
+Python 3.8 or above
+A sneaky mind and mischievous intentions 😉
 
 # Installation
 
-    Clone the repository:
+Clone the repository:
 
-    ```bash
-    git clone https://github.com/your_username/Yet-Another-DNS-Exfiltration.git
-    ```
+    git clone https://github.com/aherd2985/yade.git
 
 Navigate to the project directory:
 
-bash
-
-cd Yet-Another-DNS-Exfiltration
+  cd yade
 
 # Usage
 
-    Modify the config.py file to suit your exfiltration goals. Remember, subtlety is key!
+Run the script:
 
-    Run the script:
+    python3 yade.py
 
-    python dns_exfiltration.py
-
-    Sit back, relax, and watch your data gracefully slip away through the DNS requests. Goodbye, secrets! 👋
+Sit back, relax, and watch your data gracefully slip away through the DNS requests. Goodbye, secrets! 👋
 
 # Disclaimer
 
@@ -59,4 +53,6 @@ If you stumble upon any bugs or have suggestions for improvement, we would love 
 
 # Acknowledgments
 
-Special
+Special thanks to PacketWhisper! I shamelessly stole code from there
+  https://github.com/TryCatchHCF/PacketWhisper
+  
