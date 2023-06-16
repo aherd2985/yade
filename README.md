@@ -16,7 +16,11 @@ This Python script automates data exfiltration through DNS requests. Harnessing 
 # Features
 
 + Seamless data exfiltration using DNS requests 🕵️‍♀️
-+ Customizable domain name generation for extra stealth 🕵️‍♂️
++ Customizable domain name for extra stealth :sunglasses:
++ Customizable DNS resolver for extra stealth 🕵️‍♂️
++ Customizable DNS request types for extra stealth 🕵️‍♂️
++ Random DNS request type mode for extra stealth 🕵️‍♂️
++ Easy to customize encoding for extra stealth 🕵️‍♂️
 + Simple and intuitive command-line interface (because hackers need user-friendly tools too) 🖥️
 
 # Prerequisites
