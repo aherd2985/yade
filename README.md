@@ -16,12 +16,15 @@ This Python script automates data exfiltration through DNS requests. Harnessing 
 # Features
 
 Seamless data exfiltration using DNS requests 🕵️‍♀️
+
 Customizable domain name generation for extra stealth 🕵️‍♂️
+
 Simple and intuitive command-line interface (because hackers need user-friendly tools too) 🖥️
 
 # Prerequisites
 
 Python 3.8 or above
+
 A sneaky mind and mischievous intentions 😉
 
 # Installation
@@ -54,5 +57,6 @@ If you stumble upon any bugs or have suggestions for improvement, we would love 
 # Acknowledgments
 
 Special thanks to PacketWhisper! I shamelessly stole code from there
+
   https://github.com/TryCatchHCF/PacketWhisper
   
