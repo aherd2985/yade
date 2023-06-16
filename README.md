@@ -2,7 +2,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-382/)
 
-Welcome to the "Yet Another DNS Exfiltration" repository! 🕵️‍♂️
+Welcome to the "Yet Another DNS Exfiltration" repository! :smiley:
 <p align="center">
   <img src="https://github.com/aherd2985/yade/raw/main/yade.png" alt="Yet Another DNS Exfiltration" width="400">
 </p>
