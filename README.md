@@ -4,7 +4,7 @@
 
 Welcome to the "Yet Another DNS Exfiltration" repository! 🕵️‍♂️
 <p align="center">
-  <img src="https://github.com/your_username/Yet-Another-DNS-Exfiltration/raw/main/assets/logo.png" alt="Yet Another DNS Exfiltration" width="400">
+  <img src="https://github.com/aherd2985/yade/raw/main/yade.png" alt="Yet Another DNS Exfiltration" width="400">
 </p>
 
 # About
