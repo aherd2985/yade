@@ -63,8 +63,9 @@ This repository is for educational and entertainment purposes only. Misuse of th
 If you stumble upon any bugs or have suggestions for improvement, we would love to hear from you! Feel free to open an issue or submit a pull request. Let's make this sneaky tool even better together.
 
 **Ideas:**
-+ Add packet number and verify data integrity
-+ Add file name for multi-file
++ Add encoded packet number to DNS requests and verify data integrity
++ Add encoded file name to DNS requests 
++ Add multi-file upload feature
 + Add multiple "labels" of 63 characters or less of Subdomains to add more data in requests and limit calls 
 
 # Acknowledgments
